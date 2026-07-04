@@ -20,11 +20,11 @@ Every product image is converted into a 512 number embedding using CLIP, a multi
 
 ## Features
 
-Text search finds products from plain English descriptions even when no exact keyword match exists in the product name.
+- Text search finds products from plain English descriptions even when no exact keyword match exists in the product name.
 
-Image search uploads any product photo or illustration and finds visually similar items regardless of color name, brand, or category label.
+- Image search uploads any product photo or illustration and finds visually similar items regardless of color name, brand, or category label.
 
-PDF mood board search extracts every image from an uploaded buyer catalog or trend book and retrieves the closest catalog matches for each one automatically.
+- PDF mood board search extracts every image from an uploaded buyer catalog or trend book and retrieves the closest catalog matches for each one automatically.
 
 ## Tech stack
 
